@@ -68,10 +68,10 @@ Tools:
 Interests
 ────────────────────────────────────────
 
-AI: .......... Artificial Intelligence
-Robotics: .... Robotics & Embedded Systems
-Development: . Software Engineering
-Open Source: . GitHub Projects
+AI: Artificial Intelligence
+Robotics: Robotics & Embedded Systems
+Development: Software Engineering
+Open Source: GitHub Projects
 
 ────────────────────────────────────────
 Contact
