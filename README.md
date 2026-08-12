@@ -47,10 +47,10 @@
 dhafer@github
 ────────────────────────────────────────
 
-OS: ...................... macOS / Linux
-Host: .................... Iraq
-Role: .................... Software Developer
-Status: .................. Building & Learning
+OS: .................. macOS / Linux
+Host: ................ Iraq
+Role: ................ Software Developer
+Status: .............. Building & Learning
 
 Languages.Programming:
   Python, C++, JavaScript
@@ -68,27 +68,27 @@ Tools:
 Interests
 ────────────────────────────────────────
 
-AI: ...................... Artificial Intelligence
-Robotics: ................ Robotics & Embedded Systems
-Development: ............. Software Engineering
-Open Source: ............. GitHub Projects
+AI: ................... Artificial Intelligence
+Robotics: ............. Robotics & Embedded Systems
+Development: .......... Software Engineering
+Open Source: .......... GitHub Projects
 
 ────────────────────────────────────────
 Contact
 ────────────────────────────────────────
 
-GitHub: .................. dhaferaljaziri
-LinkedIn: ................ Dhafer Aljazairi
-Email: ................... your@email.com
+GitHub: ................. dhaferaljaziri
+LinkedIn: ............ Dhafir AL-jazairi
+Email: .... dhafir.mohammed543@gmail.com
 
 ────────────────────────────────────────
 GitHub Stats
 ────────────────────────────────────────
 
-Repositories: ............ 25
-Followers: ............... 150
-Stars: ................... 320
-Commits: ................. 1,200
+Repositories: ......... 25
+Followers: ............ 150
+Stars: ................ 320
+Commits: .............. 1,200
 </pre>
 
 </td>
