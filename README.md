@@ -1,9 +1,11 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
 <pre>
-                              .
-                                                     .
-                                 :-====++++===-:
+                           :-====++++===-:
                                :#%%%@@@@@%%%%%%%###*+-:
                                =###%%%%%##########%%%@@*
                                :*################**####@-
@@ -33,7 +35,65 @@
                                     +%%%%%%%%%%%%%%%#  .:   .    .
                                      *%%%%%%%%%%%%%%%*  .:       .
                                       *%%%%%%%%%%%%%%%*  :.
-                                  
+                                      .#%%%%%%%%%%%%%%%=  :
+                                       :%%%%%%%%%%%%%%%%: ..
+                                        -%%%%%%%%%%%%%%%#  :
 </pre>
+
+</td>
+
+<td width="55%" valign="middle">
+
+<pre>
+dhafer@github
+────────────────────────────────────────
+
+OS: ...................... macOS / Linux
+Host: .................... Iraq
+Role: .................... Software Developer
+Status: .................. Building & Learning
+
+Languages.Programming:
+  Python, C++, JavaScript
+
+Languages.Web:
+  HTML, CSS, JavaScript, React
+
+Frameworks:
+  React, Node.js
+
+Tools:
+  Git, GitHub, Docker, VS Code
+
+────────────────────────────────────────
+Interests
+────────────────────────────────────────
+
+AI: ...................... Artificial Intelligence
+Robotics: ................ Robotics & Embedded Systems
+Development: ............. Software Engineering
+Open Source: ............. GitHub Projects
+
+────────────────────────────────────────
+Contact
+────────────────────────────────────────
+
+GitHub: .................. dhaferaljaziri
+LinkedIn: ................ Dhafer Aljazairi
+Email: ................... your@email.com
+
+────────────────────────────────────────
+GitHub Stats
+────────────────────────────────────────
+
+Repositories: ............ 25
+Followers: ............... 150
+Stars: ................... 320
+Commits: ................. 1,200
+</pre>
+
+</td>
+</tr>
+</table>
 
 </div>
