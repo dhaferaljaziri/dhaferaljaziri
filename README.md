@@ -47,10 +47,10 @@
 dhafer@github
 ────────────────────────────────────────
 
-OS: ............... macOS / Linux
-Host: ............. Iraq
-Role: ............. Software Developer
-Status: ........... Building & Learning
+OS: ............ macOS / Linux
+Host: .......... Iraq
+Role: .......... Software Developer
+Status: ........ Building & Learning
 
 Languages.Programming:
   Python, C++, JavaScript
@@ -68,10 +68,10 @@ Tools:
 Interests
 ────────────────────────────────────────
 
-AI: ................ Artificial Intelligence
-Robotics: .......... Robotics & Embedded Systems
-Development: ....... Software Engineering
-Open Source: ....... GitHub Projects
+AI: ............. Artificial Intelligence
+Robotics: ....... Robotics & Embedded Systems
+Development: .... Software Engineering
+Open Source: .... GitHub Projects
 
 ────────────────────────────────────────
 Contact
