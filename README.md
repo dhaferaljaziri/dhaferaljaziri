@@ -63,7 +63,7 @@
 
 
 <!-- ==================== ASCII PORTRAIT ==================== -->
-<td width="40%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
 <pre>
  :-====++++===-:
