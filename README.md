@@ -139,7 +139,7 @@ I work with **React, Next.js, MERN stack, and Supabase**, combining creative fro
 
 - 🎓 **Education:** B.S. in Computer Technical Engineering.
 - 💬 **Ask me about:** Creative development, full-stack architectures, or automated AI agent workflows.
-- ✉️ **Contact:** [mahyudeenjutt@gmail.com](mailto:mahyudeenjutt@gmail.com)
+- ✉️ **Contact:** [dhafir.mohammed543@gmail.com](mailto:dhafir.mohammed543@gmail.com)
 - 🌐 **Portfolio:** [mahyudeen.netlify.app](https://mahyudeen.netlify.app)
 
 ---
