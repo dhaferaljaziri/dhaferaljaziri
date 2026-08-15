@@ -116,7 +116,10 @@ Commits: .............. 1,200
 
 
 
-# Hi there, I'm Mahyudeen Shahid! 👋
+
+
+
+# Hi there, I'm Dhafer Aljazairi ! 👋
 
 <!-- Theme-Sensitive Header Banner -->
 <picture>
@@ -128,13 +131,13 @@ Commits: .............. 1,200
 <br/>
 
 ## 🚀 About Me
-I’m **Mahyudeen Shahid**, a Software Engineering student and Full-Stack Web Developer who builds impactful, high-performance web applications beyond simple landing pages, focusing on immersive and interactive experiences using **GSAP, Framer Motion, Three.js, and Spline**. 
+I'm **Dhafer Aljazairi**, an AI and Robotics Engineer who builds impactful, high-performance intelligent solutions and automated workflows. 
 
 I work with **React, Next.js, MERN stack, and Supabase**, combining creative frontend development with strong backend functionality to build scalable full-stack solutions. I’m also passionate about **AI and automation**, building AI agents and workflows using tools like **n8n**, and I have experience deploying applications across Netlify, Vercel, DigitalOcean, AWS, Google Cloud, Azure, and Hostinger.
 
 > 💡 *"Every error is a lesson and every crash is an opportunity to rebuild stronger."*
 
-- 🎓 **Education:** B.S. in Software Engineering, Pakistan.
+- 🎓 **Education:** B.S. in Computer Technical Engineering.
 - 💬 **Ask me about:** Creative development, full-stack architectures, or automated AI agent workflows.
 - ✉️ **Contact:** [mahyudeenjutt@gmail.com](mailto:mahyudeenjutt@gmail.com)
 - 🌐 **Portfolio:** [mahyudeen.netlify.app](https://mahyudeen.netlify.app)
